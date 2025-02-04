@@ -1,0 +1,14 @@
+要求是使用以下DLL文件：“ opencv_videoio_ffmpeg4100.dll”和“ opencvsharpextern.dll”。这些文件对于C＃项目中的OpenCvSharp功能至关重要：
+
+关键细节：
+opencv_videoio_ffmpeg4100.dll
+
+为OPENCV（版本4.1.0）提供基于FFMPEG的视频I/O支持。
+
+视频捕获，处理和编码/解码任务所必需的。
+
+opencvsharpextern.dll
+
+OpenCvSharp的本机互操作性库（opencv的C＃包装器）。
+
+包含用于OPENCV函数的非管理代码绑定。
