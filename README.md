@@ -7,6 +7,7 @@ Generating Common Barcodes and Recognizing 2D Barcodes in VFP9
 
 # The required file packages for starting the VFP version are as follows:
 NetBarCode/
+
         └── NetBarCode.pjx|NetBarCode.pjt
         
         └── NetBarCode.scx|NetBarCode.sct
