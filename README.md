@@ -3,7 +3,7 @@ Generating Common Barcodes and Recognizing 2D Barcodes in VFP9
 
 
 # Need programming environment
-  NET Framework 4.61 | VFP9.0 7423
+  NET Framework v4.8 | VFP9.0 7423
 
 # The required file packages for starting the VFP version are as follows:
 NetBarCode/
