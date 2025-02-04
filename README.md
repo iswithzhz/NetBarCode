@@ -8,12 +8,19 @@ Generating Common Barcodes and Recognizing 2D Barcodes in VFP9
 # The required file packages for starting the VFP version are as follows:
 NetBarCode/
         └── NetBarCode.pjx|NetBarCode.pjt
+        
         └── NetBarCode.scx|NetBarCode.sct
+        
         └── opencv_videoio_ffmpeg4100.dll
+        
         └── OpenCvSharpExtern.dll
+        
         └── NetBarCode.dll
-        └── ClrHost.dll   
+        
+        └── ClrHost.dll  
+        
         └── foxjson.prg
+        
             └── Resources/
                         ├── 1.caffemodel
                         ├── 1.prototxt
