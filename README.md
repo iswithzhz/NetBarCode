@@ -1,14 +1,14 @@
 # NetBarcode For VFP9
-Generating Common Barcodes and Recognizing 2D Barcodes in VFP9
+生成常见条形码并识别VFP9中的2D条形码
 
 
-# Need programming environment
-  NET Framework v4.8 | VFP9.0 7423
+＃需要编程环境
+  网络框架v4.8 | VFP9.0 7423
 
 # The required file packages for starting the VFP version are as follows:
-NetBarCode/
+Netbarcode/
 
-        └── NetBarCode.pjx|NetBarCode.pjt
+        NetBarcode.pjx | NetBarcode.pjt
         
         └── NetBarCode.scx|NetBarCode.sct
         
@@ -16,20 +16,20 @@ NetBarCode/
         
         └── OpenCvSharpExtern.dll
         
-        └── NetBarCode.dll
+        └ -  netbarcode.dll
         
-        └── ClrHost.dll  
+        └─Clrhost.dll  
         
-        └── foxjson.prg
+        └└期foxjson.prg
         
-            └── Resources/
-                        ├── 1.caffemodel
+            └ - 资源/
+                        ├ -  1. caffemodel
                         ├── 1.prototxt
                         ├── 2.caffemodel
                         ├── 2.prototxt
         
 
 # How to start?
-  It is necessary to install .NETFramework, Version=v4.8. Additionally.
+  必须安装.netFramework，版本= v4.8。此外。
     
 
