@@ -16,20 +16,20 @@ Netbarcode/
         
         └── OpenCvSharpExtern.dll
         
-        └ -  netbarcode.dll
+        └── netbarcode.dll
         
-        └─Clrhost.dll  
+        └── Clrhost.dll  
         
-        └└期foxjson.prg
+        └── Foxjson.prg
         
-            └ - 资源/
-                        ├ -  1. caffemodel
+            └──Resources/
+                        ├── 1. caffemodel
                         ├── 1.prototxt
                         ├── 2.caffemodel
                         ├── 2.prototxt
         
 
 # How to start?
-  必须安装.netFramework，版本= v4.8。此外。
+  .netFramework = v4.8。
     
 
