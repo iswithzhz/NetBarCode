@@ -1,6 +1,5 @@
 # NetBarcode For VFP9
-生成常见条形码并识别VFP9中的2D条形码
-
+Generating Common Barcodes and Recognizing 2D Barcodes in VFP9
 
 ＃需要编程环境
   网络框架v4.8 | VFP9.0 7423
